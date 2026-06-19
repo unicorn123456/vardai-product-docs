@@ -1,4 +1,3 @@
-# vardai-product-docs
 # VårdAI — Product documentation
 
 Product management artifacts for [VårdAI](https://vardai.se), an AI-driven clinic reception and patient communication platform built for the Swedish market, with a Gulf-market expansion in progress.
@@ -13,6 +12,15 @@ These documents reflect real product decisions made while building and operating
 - **[Competitive teardown](./Competitive_Teardown.md)**
   Feature and positioning comparison against Dentally and Carestream Dental, with a clear read on where VårdAI's wedge is and where incumbents still win.
 
+- **[Roadmap](./Roadmap.md)**
+  Past, present, and future feature priorities, sequenced against GDPR compliance, first paying customer, and Gulf market expansion.
+
+- **[User interview discussion guide](./User_Interview.md)**
+  Reusable interview template for validating product assumptions with clinic staff.
+
+- **[Clinic outreach findings](./Clinic_Outreach_Findings.md)**
+  Field notes synthesized from informal conversations with ~20 Stockholm clinics during direct outreach — covering current reception workflows and reaction to AI-driven alternatives.
+
 ## About VårdAI
 
 VårdAI provides 24/7 multilingual AI reception for dental and aesthetic clinics — handling patient triage, booking, and FAQs in Swedish, English, and Arabic, with automatic escalation to clinic staff when needed.
@@ -25,9 +33,3 @@ VårdAI provides 24/7 multilingual AI reception for dental and aesthetic clinics
 Ikbal Ismail — licensed dentist (DDS, Karolinska Institutet), DevOps engineering student, and founder building at the intersection of healthcare, software, and the Swedish/Gulf markets.
 
 [vardai.se](https://vardai.se) · [aurive.se](https://aurive.se)
-
-- **[Roadmap](./Roadmap.md)**
-  Past, present, and future feature priorities, sequenced against GDPR compliance, first paying customer, and Gulf market expansion.
-
-- **[User interview](./User_Interview.md)**
-  Discussion guide and findings from clinic receptionist research, validating core trust and triage requirements.
