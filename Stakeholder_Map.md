@@ -1,3 +1,5 @@
+<img width="894" height="752" alt="bild" src="https://github.com/user-attachments/assets/e3148995-ad39-456a-9894-87f5829b6c42" />
+
 # VårdAI — Clinic onboarding stakeholder map
 
 **Author:** Ikbal Ismail
