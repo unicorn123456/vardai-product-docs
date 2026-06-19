@@ -42,3 +42,5 @@ Ikbal Ismail — licensed dentist (DDS, Karolinska Institutet), DevOps engineeri
 
   - **[Build retrospective](./Retrospective.md)**
   A retrospective on building V\u00e5rdAI solo without a formal Scrum process — what worked, what took longer than expected (AI triage tuning), and how a definition of done would have prevented the overrun.
+- **[Project plan — Linear](./Linear_Project_Plan.md)**
+  A scoped Linear board for shipping Arabic language support, breaking AI-related work into concrete, prioritized issues — directly applying the lesson from the retrospective.
