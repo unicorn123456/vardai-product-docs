@@ -33,3 +33,6 @@ VårdAI provides 24/7 multilingual AI reception for dental and aesthetic clinics
 Ikbal Ismail — licensed dentist (DDS, Karolinska Institutet), DevOps engineering student, and founder building at the intersection of healthcare, software, and the Swedish/Gulf markets.
 
 [vardai.se](https://vardai.se) · [aurive.se](https://aurive.se)
+
+- **[Meta Ads campaign plan](./Aurive_Meta_Ads_Campaign_Plan.md)**
+  Targeting, creative, and budget specification for a planned Meta Ads test, built directly on insights from real clinic outreach conversations.
