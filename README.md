@@ -47,3 +47,6 @@ Ikbal Ismail — licensed dentist (DDS, Karolinska Institutet), DevOps engineeri
 
 - **[Risk register](./Risk_Register.md)**
   Top 10 risks across regulatory, technical, and commercial categories, scored by likelihood and impact — commercial risks sourced directly from real outreach and interview findings.
+
+- **[Stakeholder map](./Stakeholder_Map.md)**
+  Maps all parties involved in a V\u00e5rdAI clinic onboarding across four groups — clinic staff, patients, external services, and regulators — and explains why each group has a different relationship to trust and risk.
